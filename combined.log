@@ -1,0 +1,58 @@
+info: POST /todo {"timestamp":"2024-01-09T16:37:52.798Z"}
+error: SyntaxError: Unexpected token } in JSON at position 62
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:517:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1368:12) {"timestamp":"2024-01-09T16:37:52.847Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:38:35.391Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:39:17.209Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:39:26.337Z"}
+error: SyntaxError: Unexpected token } in JSON at position 24
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:517:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1368:12) {"timestamp":"2024-01-09T16:39:26.340Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:39:30.136Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:40:21.245Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:41:47.135Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:41:54.574Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:42:51.513Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:43:14.926Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:43:25.458Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:43:57.573Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:44:14.069Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:44:34.086Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:44:55.077Z"}
+info: GET /todo {"timestamp":"2024-01-09T16:45:04.247Z"}
+info: GET /todo {"timestamp":"2024-01-09T16:47:04.770Z"}
+info: POST /todo {"timestamp":"2024-01-09T16:47:08.490Z"}
+info: POST /signup {"timestamp":"2024-01-09T16:51:07.606Z"}
+error: SyntaxError: Unexpected string in JSON at position 63
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:517:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1368:12) {"timestamp":"2024-01-09T16:51:07.658Z"}
+info: POST /signup {"timestamp":"2024-01-09T16:51:13.824Z"}
+info: POST /signup {"timestamp":"2024-01-09T16:51:22.439Z"}
+info: POST /signup {"timestamp":"2024-01-09T16:53:04.429Z"}
+info: POST /signup {"timestamp":"2024-01-09T17:00:01.083Z"}
+info: POST /signup {"timestamp":"2024-01-09T17:01:13.045Z"}
+info: POST /login {"timestamp":"2024-01-09T17:01:28.508Z"}

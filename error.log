@@ -1,0 +1,33 @@
+error: SyntaxError: Unexpected token } in JSON at position 62
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:517:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1368:12) {"timestamp":"2024-01-09T16:37:52.847Z"}
+error: SyntaxError: Unexpected token } in JSON at position 24
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:517:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1368:12) {"timestamp":"2024-01-09T16:39:26.340Z"}
+error: SyntaxError: Unexpected string in JSON at position 63
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\ashim\Desktop\own3\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\ashim\Desktop\own3\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:517:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1368:12) {"timestamp":"2024-01-09T16:51:07.658Z"}
